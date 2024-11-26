@@ -1,6 +1,6 @@
 # sngd
 
-Code to accompany the paper ["Optimising Distributions with Natural Gradient Surrogates"](https://arxiv.org/abs/2310.11837).
+Code to accompany the paper ["Optimising Distributions with Natural Gradient Surrogates"](https://proceedings.mlr.press/v238/so24a.html) (AISTATS 2024).
 
 NB: we have only included synthetic datasets in this repository; details of the datasets used in the paper can be found in Appendix D.
 
